@@ -1,3 +1,8 @@
+# Update from https://github.com/aivocode:
+Commits autohored by https://github.com/avrs-git belong to https://github.com/aivocode,
+(names and surnames match on both accounts + confirmation text on avrs-git account bio), 
+because avrs-git was my old temporary GitHub account created just for this project.
+
 # Group 64 Newspaper Web App
 
 [https://group64-group64.apps.okd.eecs.qmul.ac.uk/](https://group64-group64.apps.okd.eecs.qmul.ac.uk/)
